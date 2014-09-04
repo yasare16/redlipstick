@@ -1,1 +1,42 @@
-/*redlipstickhk*/
+/*
+Author:Yaw Asare
+Designed for: RedLipstick
+
+*/
+
+/* RESET */
+         *{margin:0;padding:0;outline:0;border:0;list-style:none;text-decoration:none}
+         hr{margin:0 auto;width:150px;background:#f4f4f4}
+         ::selection{background:#eee;color:#333}
+         ::-moz-selection{background:#eee;color:#333}
+         ::-webkit-selection{background:#eee;color:#333}
+         /*div{behavior: url('js/PIE.htc')}*/
+
+/*clearfix*/
+.cf{zoom:1}
+.cf:after{content:"";display:table;clear:both}
+         
+/* GRID */
+body{font-size:16px;}
+.grid-1{max-width:1024px;margin:0 auto}
+.grid-2{float:left;width:50%;}
+.topspace{padding-top:80px}
+
+h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase}
+h1,.raleway{font-family:"Raleway",serif}
+.huge{font-size:4.1em;}
+.BOLD{font-weight:bold}   
+.wrapper{padding-top:60px}
+.landing{background:#222;color:#fff;min-height:500px}
+     
+        
+/* HEADER */
+	.header{position:fixed;top:0;left:0;width:100%;height:60px;background:#fff;z-index:1000}
+	
+/* NAVIGATION */
+        #logo{display:block;font:22px "Berkshire Swash", arial, serif;color:#a30303;padding:15px 0 0 0}
+        .logo img{width:265px;height:60px;margin-left:35px}
+        
+       
+/* FOOTER */
+	
