@@ -41,7 +41,7 @@
 </div>
 <div class="footer">
 
-</div><!--footer>
+</div>
 
 </body>
-</html>--></body></html>
+</html>
