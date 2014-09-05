@@ -42,7 +42,8 @@ h1,.raleway{font-family:"Raleway",serif}
         
          
 
-.intro{padding-top:60px}  
+.intro{padding-top:60px}
+.intro .bold{font-size:1.6em;padding-top:1em;}
        
 /* FOOTER */
        .footer{position:relative;background:#ddd;color:#333;min-height:200px}
