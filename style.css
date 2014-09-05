@@ -20,6 +20,7 @@ Designed for: RedLipstick
 body{font-size:16px;}
 .grid-1{max-width:1024px;margin:0 auto}
 .grid-2{float:left;width:50%;}
+.grid-3{float:left;width:33.3%;}
 .space{padding:80px 0}
 
 h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase}
