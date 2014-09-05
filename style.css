@@ -45,7 +45,8 @@ h1,.raleway{font-family:"Raleway",serif}
          
 
 .intro{padding-top:60px}
-.intro .bold{font-size:1.6em;padding-top:1em;}
+.intro .bold{font-size:1.6em;padding:1em 1em 0 0;}
+.intro #style-nav{min-width:160px;padding:10px;color:#a30303;font:1.1em "Berkshire Swash", arial, serif;}
 
        
 /* FOOTER */
