@@ -37,24 +37,24 @@ h1,.raleway{font-family:"Raleway",serif}
 .black{background:#333;}
 .white{background:#fff;}
 /* HEADER */
-	.header{position:fixed;top:0;left:0;width:100%;height:60px;background:#fff;z-index:1000}
-	#logo{display:inline-block;font:22px "Berkshire Swash", arial, serif;color:#a30303;padding:15px 0 0 0}
+	.header{position:fixed;top:0;left:0;width:100%;padding:10px 0;background:#fff;z-index:1000}
+	#logo{display:inline-block;font:22px "Berkshire Swash", arial, serif;color:#a30303}
         
 
 /* NAVIGATION */
         .nav{float:right;padding:20px 0}
         .nav li{display:inline-block}
-        .nav li a{text-transform:uppercase;font:bold 14px "Raleway",serif;color:#a30303;padding:5px 10px}
+        .nav li a{text-transform:uppercase;font:bold 14px "Raleway",serif;color:#a30303;padding:0 10px}
         
          
 
-.intro{padding-top:30%}
+.intro{padding-top:25%}
 .intro .bold{font-size:1.6em;padding:1em 1em 0 0;}
 .intro #style-nav{min-width:160px;padding:10px;color:#a30303;font:1.1em "Berkshire Swash", arial, serif;}
 
 .promo{}
 .promo:first-child{margin:0}
-.promo .gutter{margin:1% 0 0 1.6%;}
+.promo .gutter{padding:1% 0 0 1.6%;}
 
        
 /* FOOTER */
