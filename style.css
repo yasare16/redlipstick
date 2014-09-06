@@ -26,8 +26,8 @@ Designed for: RedLipstick
 .space{padding:80px 0}
 
 h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase}
-h1,.raleway{font-family:"Raleway",serif}
-.huge{font-size:5.3em;}
+.raleway{font-family:"Raleway",serif}
+.huge{font-family:"Oswald",sans-serif;font-size:5.3em;}
 .bold{font-weight:bold}   
 .landing .wrapper{padding-top:60px}
 .landing{color:#fff;min-height:600px}
