@@ -5,9 +5,7 @@ Designed for: RedLipstick
 */
 
 /* RESET */
-         *,*:before,*:after{margin:0;padding:0;outline:0;border:0;list-style:none;text-decoration:none
-         	-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;
-         }
+         *,*:before,*:after{margin:0;padding:0;outline:0;border:0;list-style:none;text-decoration:none;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
          hr{margin:0 auto;width:150px;background:#f4f4f4}
          ::selection{background:#eee;color:#333}
          ::-moz-selection{background:#eee;color:#333}
@@ -16,7 +14,7 @@ Designed for: RedLipstick
 
 /*clearfix*/
 .cf{zoom:1}
-.cf:after{content:"";display:table;clear:both}
+.cf:after, cf:before{content:"";display:table;clear:both}
          
 /* GRID */
 [class*="grid"]{float:left;}
@@ -34,8 +32,9 @@ h1,.raleway{font-family:"Raleway",serif}
 .landing .wrapper{padding-top:60px}
 .landing{color:#fff;min-height:600px}
      
-.black{background:#333;}
-.white{background:#fff;}
+.black{background:#333}
+.white{background:#fff}
+
 /* HEADER */
 	.header{position:fixed;top:0;left:0;width:100%;padding:10px 0;background:#fff;z-index:1000}
 	#logo{display:inline-block;font:22px "Berkshire Swash", arial, serif;color:#a30303}
@@ -43,7 +42,7 @@ h1,.raleway{font-family:"Raleway",serif}
         
 
 /* NAVIGATION */
-        .nav{float:right;padding:20px 0}
+        .nav{float:right; padding:0 8.34%}
         .nav li{display:inline-block}
         .nav li a{text-transform:uppercase;font:bold 14px "Raleway",serif;color:#a30303;padding:0 10px}
         
