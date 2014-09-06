@@ -5,7 +5,7 @@ Designed for: RedLipstick
 */
 
 /* RESET */
-         *,*:before, *:after{margin:0;padding:0;outline:0;border:0;list-style:none;text-decoration:none
+         *,*:before,*:after{margin:0;padding:0;outline:0;border:0;list-style:none;text-decoration:none
          	-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;
          }
          hr{margin:0 auto;width:150px;background:#f4f4f4}
@@ -32,9 +32,9 @@ h1,.raleway{font-family:"Raleway",serif}
 .huge{font-size:5.3em;}
 .bold{font-weight:bold}   
 .landing .wrapper{padding-top:60px}
-.landing{background:#222;color:#fff;min-height:600px}
+.landing{color:#fff;min-height:600px}
      
-.black{background:#222;}
+.black{background:#333;}
 .white{background:#fff;}
 /* HEADER */
 	.header{position:fixed;top:0;left:0;width:100%;height:60px;background:#fff;z-index:1000}
