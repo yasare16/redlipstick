@@ -55,7 +55,7 @@ h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase}
 .intro{padding-top:25%}
 .intro .bold{font-size:1.5em;padding:0.8em 0.8em 0 0;}
 .intro #style-nav{min-width:120px;padding:10px;color:#a30303;font:1.1em "Berkshire Swash", arial, serif;}
-.intro .slide{width:83.3%; margin:auto}
+.slide{width:83.3%; margin:auto}
 .slide img{width:100%}
 
 .promo{}
