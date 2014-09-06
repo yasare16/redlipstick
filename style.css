@@ -4,23 +4,27 @@ Designed for: RedLipstick
 
 */
 
-/* RESET */
+/* CSS RESET */
          *,*:before,*:after{margin:0;padding:0;outline:0;border:0;list-style:none;text-decoration:none;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
-         hr{margin:0 auto;width:150px;background:#f4f4f4}
+hr{margin:0 auto;width:150px;background:#f4f4f4}
          ::selection{background:#eee;color:#333}
          ::-moz-selection{background:#eee;color:#333}
          ::-webkit-selection{background:#eee;color:#333}
-         /*div{behavior: url('js/PIE.htc')}*/
+         /*div{behavior: url('js/PIE.htc')}  for box shadows in lte IE 8*/
 
-/*clearfix*/
+/*CLEARFIX == clear floats*/
 .cf{zoom:1}
 .cf:after, cf:before{content:"";display:table;clear:both}
          
-/* GRID */
+/* GRID == In the format grid-n, denoting a horizontal grid made up of n columns that sum up to 12 in its parent container. */
 [class*="grid"]{float:left;}
-.grid-1{width:100%;}
-.grid-2{width:50%;}
-.grid-3{width:33.3%;}
+.grid-12{width:100%;}
+.grid-6{width:50%;}
+.grid-4{width:33.3%;}
+.grid-2 {width:16.6%}
+.grid-1{width:8.3%}
+
+/***** End of re-usable CSS. Now to page specifics****/
 
 .wrapper{max-width:1024px;margin:0 auto}
 .space{padding:80px 0}
