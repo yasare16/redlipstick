@@ -39,6 +39,7 @@ h1,.raleway{font-family:"Raleway",serif}
 /* HEADER */
 	.header{position:fixed;top:0;left:0;width:100%;padding:10px 0;background:#fff;z-index:1000}
 	#logo{display:inline-block;font:22px "Berkshire Swash", arial, serif;color:#a30303}
+       #logo span:nth-of-type(2){color:black}
         
 
 /* NAVIGATION */
