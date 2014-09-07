@@ -69,7 +69,7 @@ p {padding-top:0.4em; padding-bottom:0.4em}
 
 .promo {}
 .blurb {}
-.promo .gutter {height:500px}
+.promo .gutter {height:400px}
 .promo .gutter::before{content:""; display:block;width:8.34%;background:#333}
 
        
