@@ -57,14 +57,15 @@ p {padding-top:0.4em; padding-bottom:0.4em}
 /* NAVIGATION */
 .nav{padding-top:4px;}
 .nav,.nav li{float:right}
-.nav li a{text-transform:uppercase;font:16px "Oswald",serif;color:#333;padding:0 10px}
+.nav li a{text-transform:uppercase;font:14px "Oswald",serif;color:#333;padding:0 10px}
 
 
 /* CONTENT */
 .intro, .slide, .blurb{margin:0 auto; text-align:center}
 .intro {padding-top:16.6%}
 .intro .bold{font-size:1.5em}
-.intro #style-nav,option{min-width:120px;padding:10px;color:#a30303;font:1em "Berkshire Swash", arial, serif;}
+.intro #style-nav{min-width:120px;padding:10px;color:#a30303;font:1em "Berkshire Swash", arial, serif}
+option{padding:10px;}
 .slide{width:85%}
 .slide img{width:100%}
 
