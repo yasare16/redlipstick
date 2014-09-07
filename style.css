@@ -77,5 +77,6 @@ option{padding:10px;}
 
 /* FOOTER */
 .footer{position:relative;color:#666;}
+.footer ul {text-align:left}
 .footer a{text-transform:capitalize;color:#666; padding:1%}
 
