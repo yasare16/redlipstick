@@ -16,7 +16,7 @@ hr{margin:0 auto;width:150px;background:#f4f4f4}
 .cf{zoom:1}
 .cf:after, cf:before{content:"";display:table;clear:both}
 
-body{line-height:1.3;color:#333;font:0.85em "Raleway",Verdana, Geneva, Arial, sans-serif;}
+body{line-height:1.5;color:#333;font:0.9em "Raleway",Verdana, Geneva, Arial, sans-serif;}
 
 /* GRID == In the format grid-n, denoting a horizontal grid made up of n columns that should sum up to 12 in its parent container. */
 [class*="grid"]{float:left;}
@@ -61,7 +61,7 @@ p {padding-top:0.4em; padding-bottom:0.4em}
 
 /* CONTENT */
 .intro, .slide, .blurb{margin:0 auto; text-align:center}
-.intro {padding-top:20%}
+.intro {padding-top:16.6%}
 .intro .bold{font-size:1.5em}
 .intro #style-nav{min-width:120px;padding:10px;color:#a30303;font:1em "Berkshire Swash", arial, serif;}
 .slide{width:85%}
