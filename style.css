@@ -35,10 +35,10 @@ body{line-height:1.5;color:#333;font:0.9em "Raleway",Verdana, Geneva, Arial, san
 .space{padding:80px 0}
 
 h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase; padding-top:0.4em; padding-bottom:0.4em}
-h1, .huge{font-family:"Oswald", arial, sans-serif}
+h1, .huge{font-family:"Oswald", Arial, sans-serif}
 p {padding-top:0.4em; padding-bottom:0.4em}
 .raleway{font-family:"Raleway",serif}
-.huge{font-size:5.3em;}
+.huge{font-size:5.3em;padding:5px 0;}
 .bold{font-weight:bold; padding-right:0.8em}   
 .landing .wrapper{padding-top:60px}
 .landing{color:#fff;min-height:600px}
