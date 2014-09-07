@@ -64,7 +64,7 @@ h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase}
 
 .promo{}
 .promo:first-child{margin:0}
-.promo .gutter{padding:1% 0 0 1.6%;}
+.promo .gutter:after{content:""; display:block; width:8.34%;background:#333}
 
        
 /* FOOTER */
