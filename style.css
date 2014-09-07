@@ -65,7 +65,7 @@ p {padding-top:0.4em; padding-bottom:0.4em}
 .intro {padding-top:16.6%}
 .intro .bold{font-size:1.5em}
 .intro #style-nav{min-width:120px;padding:0 10px;color:#a30303;font:1em "Berkshire Swash", arial, serif}
-option{padding:0 10px;}
+option{padding:10px;}
 
 .slide{width:85%}
 .slide img{width:100%}
