@@ -57,7 +57,7 @@ h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase}
          
 
 .intro, .slide{margin:0 auto; text-align:center}
-.intro {padding-top:25.2%}
+.intro {padding-top:25%}
 .intro .bold{font-size:1.5em;padding:0.8em 0.8em 0 0;}
 .intro #style-nav{min-width:120px;padding:10px;color:#a30303;font:1.1em "Berkshire Swash", arial, serif;}
 .slide{width:85%}
@@ -65,7 +65,7 @@ h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase}
 
 .promo {}
 .blurb {text-align:center}
-.promo .blurb .gutter:after{content:""; display:block; width:8.34%;background:#333}
+.promo .gutter:after{content:""; display:block; width:8.34%;background:#333}
 
        
 /* FOOTER */
