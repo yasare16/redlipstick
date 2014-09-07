@@ -55,8 +55,9 @@ p {padding-top:0.4em; padding-bottom:0.4em}
 
 
 /* NAVIGATION */
+.nav{padding-top:2px;}
 .nav,.nav li{float:right}
-.nav li a{text-transform:uppercase;font:bold 14px "Raleway",serif;color:#333;padding:0 10px}
+.nav li a{text-transform:uppercase;font:bold 16px "Oswald",serif;color:#333;padding:0 10px}
 
 
 /* CONTENT */
