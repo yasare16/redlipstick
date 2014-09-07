@@ -61,7 +61,7 @@ p {padding-top:0.4em; padding-bottom:0.4em}
          
 
 .intro, .slide, .blurb{margin:0 auto; text-align:center}
-.intro {padding-top:25%}
+.intro {padding-top:20%}
 .intro .bold{font-size:1.5em}
 .intro #style-nav{min-width:120px;padding:10px;color:#a30303;font:1em "Berkshire Swash", arial, serif;}
 .slide{width:85%}
@@ -69,7 +69,7 @@ p {padding-top:0.4em; padding-bottom:0.4em}
 
 .promo {}
 .blurb {}
-.promo .gutter {height:300px}
+.promo .gutter {height:500px}
 .promo .gutter::before{content:""; display:block;width:8.34%;background:#333}
 
        
