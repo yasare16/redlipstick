@@ -42,6 +42,7 @@ h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase}
 .black{background:#333}
 .white{background:#fff}
 .grey {background:#ddd}
+.red {background:#a30303}
 
 /* HEADER */
 	.header{position:fixed;top:0;left:0;width:100%;padding:20px 0;background:#fff;z-index:1000}
