@@ -61,7 +61,7 @@ p {padding-top:0.4em; padding-bottom:0.4em}
 
 
 /* CONTENT */
-.intro, .slide, .blurb{margin:0 auto; text-align:center}
+.intro, .slide, .blurb,.center{margin:0 auto; text-align:center}
 .intro {padding-top:16.6%}
 .intro .bold{font-size:1.5em}
 .intro #style-nav{min-width:120px;padding:0 10px;color:#a30303;font:1em "Berkshire Swash", Arial, serif;border:none;background:#fff;border-radius:0 4px 4px 0;}
@@ -71,10 +71,11 @@ option{padding:10px;}
 .slide img{width:100%}
 
 .promo{}
-.blurb{text-align:left;padding:0 8.34%;}
+.promo .blurb{text-align:left;padding:0 8.34%;}
 .promo .gutter{height:1px}
 
 
 /* FOOTER */
-.footer{position:relative;color:#666;min-height:200px}
+.footer{position:relative;color:#666;}
+.footer a{text-transform:capitalize;color:#666; padding:1%}
 
