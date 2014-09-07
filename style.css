@@ -15,6 +15,8 @@ hr{margin:0 auto;width:150px;background:#f4f4f4}
 /*CLEARFIX == clear floats*/
 .cf{zoom:1}
 .cf:after, cf:before{content:"";display:table;clear:both}
+
+body {line-height:1.5;}
          
 /* GRID == In the format grid-n, denoting a horizontal grid made up of n columns that should sum up to 12 in its parent container. */
 [class*="grid"]{float:left;}
@@ -66,7 +68,7 @@ h1, .huge{font-family:"Oswald", arial, sans-serif}
 
 .promo {}
 .blurb {text-align:center}
-.gutter::after{content:""; display:block; position:relative;width:80px;background:#333}
+.gutter::after{content:""; display:block; position:relative;width:80px;height:100%;background:#333}
 
        
 /* FOOTER */
