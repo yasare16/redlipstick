@@ -43,7 +43,7 @@ p {padding-top:0.4em; padding-bottom:0.4em}
 .landing .wrapper{padding-top:60px}
 .landing{color:#fff;min-height:600px}
 
-.box-link{padding:8px 12px; border:2px solid #a30303; color:#a30303}
+.box-link{padding:8px 12px; margin-top:0.4em; margin-bottom:0.4em;border:2px solid #a30303; color:#a30303}
 
 .black{background:#333}
 .white{background:#fff}
