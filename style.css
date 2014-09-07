@@ -62,9 +62,9 @@ h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase}
 .slide{width:85%}
 .slide img{width:100%}
 
-.promo{}
-.promo:first-child{margin:0}
-.promo .gutter:after{content:""; display:block; width:8.34%;background:#333}
+.promo {}
+.blurb {text-align:center}
+.promo .blurb .gutter:after{content:""; display:block; width:8.34%;background:#333}
 
        
 /* FOOTER */
