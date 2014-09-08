@@ -44,7 +44,7 @@ p {padding-top:0.4em; padding-bottom:0.4em}
 .landing{color:#fff;min-height:600px}
 
 .box-link{position:relative;margin-top:1.1em; margin-bottom:0.4em;}
-.box-link span::before{content:"";display:block;position:absolute;top:0;left:0;background:#a30303;width:100%;}
+/*.box-link span::before{content:"";display:block;position:absolute;top:0;left:0;background:#a30303;width:100%;}*/
 .box-link-inner,.box-link span::before{padding:8px 12px; border:2px solid #a30303; color:#a30303}
 
 .black{background:#333}
