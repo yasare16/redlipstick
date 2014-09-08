@@ -45,7 +45,7 @@ p {padding-top:0.4em; padding-bottom:0.4em}
 
 .box-link{position:relative;margin-top:1.1em; margin-bottom:0.4em;}
 .box-link span::before{content:"";display:block;position:absolute;top:-10px;left:0;background:#a30303;width:122px;height:37px;-webkit-transition:width 0.3s;-moz-transition:width 0.3s;transition:width 0.3}
-.box-link span::before:hover{width:0;}
+.box-link:hover .box-link span::before{width:0;}
 .box-link-inner{padding:8px 12px; border:2px solid #a30303;color:#a30303}
 
 .black{background:#333}
