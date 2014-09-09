@@ -82,6 +82,8 @@ option{padding:10px;}
 .promo .blurb{text-align:left;padding:0 8.34%}
 .promo .gutter{height:1px}
 
+.pics{}
+.pics .grid-6{padding:1px;}
 
 /* FOOTER */
 .footer{position:relative;color:#666;}
