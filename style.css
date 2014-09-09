@@ -34,6 +34,8 @@ body{line-height:1.5;color:#333;font:0.9em "Raleway",Verdana, Geneva, Arial, san
 .wrapper{max-width:1024px;margin:0 auto}
 .space{padding:80px 0}
 
+
+/*fonts*/
 h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase; padding-top:0.4em; padding-bottom:0.4em}
 h1, .huge{font-family:"Oswald", Arial, sans-serif}
 p {padding-top:0.4em; padding-bottom:0.4em}
@@ -43,13 +45,15 @@ p {padding-top:0.4em; padding-bottom:0.4em}
 .landing .wrapper{padding-top:60px}
 .landing{color:#fff;min-height:600px}
 
+/*anchors*/
 .box-link{position:relative;margin-top:1.1em; margin-bottom:0.4em;}
 .box-link-inner{padding:8px 12px; border:2px solid #a30303;color:#a30303;z-index:20;}
 .box-link-inner:hover{background:#a30303;color:#fff;}
 /*.box-link-inner::before{content:"";display:block;position:absolute;top:-10px;left:0;background:#a30303;width:0;height:37px;-webkit-transition:width 0.3s;-moz-transition:width 0.3s;transition:width 0.3}*/
 /*.box-link-inner:hover > .box-link-inner::before{width:122px}*/
 
-
+/*images*/
+img{width:100%;}
 
 .black{background:#333}
 .white{background:#fff}
