@@ -87,7 +87,9 @@ option{padding:10px;}
 .promo .gutter{height:1px}
 
 .pics{}
-.pics .grid-6{padding:1px;}
+.divider{padding-left:2px;}
+.divider .grid-6{padding:0 1px 0 1px;}
+.divider .grid-6:first-child{padding-left:0;}
 
 /* FOOTER */
 .footer{position:relative;color:#666;}
