@@ -86,8 +86,8 @@ option{padding:10px;}
 .promo .blurb{text-align:left;padding:0 8.34%}
 .promo .gutter{height:1px}
 
-.pics{}
-.divider{padding-left:2px;}
+.pics{max-height:470px;}
+.divider{padding-right:2px;}
 .divider .grid-6{padding:0 1px 0 1px;}
 .divider .grid-6:first-child{padding-left:0;}
 
