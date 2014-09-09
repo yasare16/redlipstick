@@ -46,8 +46,8 @@ p {padding-top:0.4em; padding-bottom:0.4em}
 .box-link{position:relative;margin-top:1.1em; margin-bottom:0.4em;}
 .box-link-inner{padding:8px 12px; border:2px solid #a30303;color:#a30303;z-index:20;}
 .box-link-inner:hover{color:#fff;}
+.box-link-inner:hover > span::before{width:122px}
 .box-link-inner span::before{content:"";display:block;position:absolute;top:-10px;left:0;background:#a30303;width:0;height:37px;-webkit-transition:width 0.3s;-moz-transition:width 0.3s;transition:width 0.3}
-.box-link-inner:hover>.box-link-inner span::before{width:122px}
 
 
 .black{background:#333}
