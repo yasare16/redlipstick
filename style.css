@@ -86,6 +86,6 @@ option{padding:10px;}
 .footer{position:relative;color:#666;}
 .footer .grid-1{border:1px solid #eee; border-top:0;}
 .footer .grid-1::after{content:"";position:relative;top:80px;left:0;display:block;height:0;border:42px solid transparent;border-bottom-color:#ddd}
-.footer ul li{text-align:left; padding:15px}
-.footer a{text-transform:capitalize;color:#666;padding:15px}
+.footer ul li{text-align:left; padding:8px}
+.footer a{text-transform:capitalize;color:#666;padding:5px}
 
