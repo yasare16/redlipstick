@@ -88,8 +88,9 @@ option{padding:10px;}
 
 .pics{max-height:470px;}
 .divider{padding-right:2px;}
-.divider .grid-6{padding:0 1px 0 1px;}
+.divider .grid-6{padding:0 0 1px 1px;}
 .divider .grid-6:first-child{padding-left:0;}
+.divider .grid-12 .grid-6 {padding-bottom:0}
 
 /* FOOTER */
 .footer{position:relative;color:#666;}
