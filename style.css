@@ -98,7 +98,7 @@ option{padding:10px;}
 /* FOOTER */
 .footer{position:relative;color:#666}
 .footer .grid-1{}
-.footer .social a{display:block;height:32px;width:32px;background:url(http://idea.yawdesigns.com/images/social-icons-sprite2.png);margin:20px auto;border:1px solid #fff;border-radius:50%;opacity:0.8;}
+.footer .social a{display:block;height:32px;width:32px;background:url(http://idea.yawdesigns.com/images/social-icons-sprite2.png);margin:20px auto;border:1px solid #fff;border-radius:50%;opacity:0.7;}
 .footer .social a:hover{opacity:1;}
 .footer .social a:last-child{margin-bottom:0;}
 .footer .grid-1::after{content:"";position:relative;top:0;left:0;display:block;height:0;border:42px solid transparent;border-bottom-color:#ddd}
@@ -109,3 +109,4 @@ option{padding:10px;}
 
 .footer-after{padding:8px 0;text-align:right}
 .footer-after a{padding:8px 10px;color:#aaa;text-transform:capitalize;}
+.footer-after a:hover{color:#fff;}
