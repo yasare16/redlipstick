@@ -91,7 +91,7 @@ option{padding:10px;}
 .divider{padding-right:1px;}
 .divider .grid-6{padding-left:1px;}
 .divider .grid-6:first-child,.divider .grid-12 .grid-6:first-child{padding-left:0;}
-.divider .grid-12 {margin-top:-3px}
+.divider .grid-12, .footer {margin-top:-3px}
 /*.divider .grid-12 .grid-6 {padding-top:1px}*/
 
 
