@@ -91,12 +91,12 @@ option{padding:10px;}
 .divider{padding-right:1px;}
 .divider .grid-6{padding-left:1px;}
 .divider .grid-6:first-child,.divider .grid-12 .grid-6:first-child{padding-left:0;}
-.divider .grid-12, .footer {margin-top:-3px}
+.divider .grid-12 {margin-top:-3px}
 /*.divider .grid-12 .grid-6 {padding-top:1px}*/
 
 
 /* FOOTER */
-.footer{position:relative;color:#666;}
+.footer{position:relative;color:#666;margin-top:-4px}
 .footer .grid-1{}
 .footer .grid-1::after{content:"";position:relative;top:80px;left:0;display:block;height:0;border:42px solid transparent;border-bottom-color:#ddd}
 .footer .nav{}
