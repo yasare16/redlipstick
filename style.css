@@ -87,10 +87,10 @@ option{padding:10px;}
 .promo .gutter{height:1px}
 
 .pics{max-height:470px;}
-.divider{padding-right:2px;}
+.divider{padding-right:1px;}
 .divider .grid-6{padding-left:1px;}
 .divider .grid-6:first-child,.divider .grid-12 .grid-6:first-child{padding-left:0;}
-.divider .grid-12 .grid-6 {padding:1px 0 0 1px}
+.divider .grid-12 .grid-6 {padding-top:1px}
 
 
 /* FOOTER */
