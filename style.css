@@ -100,6 +100,6 @@ option{padding:10px;}
 .footer .grid-1{}
 .footer .grid-1::after{content:"";position:relative;top:80px;left:0;display:block;height:0;border:42px solid transparent;border-bottom-color:#ddd}
 .footer .nav{}
-.footer .nav li{text-align:left; padding:5px; border-left:2px solid #444}
-.footer .nav li:first-child {padding-top:0; padding-left:5px; color:#a30303; border-left-color:#a30303}
-.footer .nav .a{color:#666;padding:5px}
+.footer .nav li{text-align:left; padding:8px; border-left:2px solid #444}
+.footer .nav li:first-child {padding-top:0; padding-bottom:0; color:#a30303; border-left-color:#a30303; font-size:14px}
+.footer .nav .a{color:#666;}
