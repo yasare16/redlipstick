@@ -105,7 +105,10 @@ option{padding:10px;}
 .footer .nav{}
 .footer .nav li{text-align:left; padding:5px; border-left:2px solid #444}
 .footer .nav li:first-child {padding-top:0; padding-bottom:0; color:#a30303; border-left-color:#a30303; font-size:14px}
+.footer .nav h3 {padding:0}
 .footer .nav .a{display:block;color:#666;padding:0}
+#newsletter {border:2px solid #aaa; padding:5px;background:#fff}
+#newsletter .submit{background:#a30303; color:#fff; padding:5px}
 
 .footer-after{padding:8px 0;text-align:right}
 .footer-after a{padding:8px 10px;color:#aaa;text-transform:capitalize;}
