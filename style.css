@@ -108,7 +108,7 @@ option{padding:10px;}
 .footer .nav h3 {padding:0; margin:0}
 .footer .nav .a{display:block;color:#666;padding:0}
 #newsletter {border:2px solid #aaa; padding:5px;background:#fff}
-#newsletter .submit{background:#a30303; color:#fff; padding:5px}
+#newsletter .submit{float:left;background:#a30303; color:#fff; padding:5px}
 
 .footer-after{padding:8px 0;text-align:right}
 .footer-after a{padding:8px 10px;color:#aaa;text-transform:capitalize;}
