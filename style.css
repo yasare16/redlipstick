@@ -96,7 +96,7 @@ option{padding:10px;}
 
 
 /* FOOTER */
-.footer{position:relative;color:#666; margin-top:-5px}
+.footer{position:relative;color:#666; margin-top:-12px}
 .footer .grid-1{}
 .footer .social a{display:block;height:32px;width:32px;background:url(http://idea.yawdesigns.com/images/social-icons-sprite2.png);margin:20px auto;border:1px solid #fff;border-radius:50%;opacity:0.7;}
 .footer .social a:hover{opacity:1;}
