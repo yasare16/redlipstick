@@ -111,6 +111,7 @@ option{padding:10px;}
 #newsletter {border:1px solid #aaa; padding:5px;background:#fff}
 #newsletter .submit{float:left;background:#a30303; color:#fff; padding:5px}
 
-.footer-after{padding:8px 0;text-align:right}
+.footer-after{padding:8px 0;text-align:right; color:#aaa}
 .footer-after a{padding:8px 10px;color:#aaa;text-transform:capitalize;}
+.footer-after span{float:left}
 .footer-after a:hover{color:#fff;}
