@@ -108,9 +108,9 @@ option{padding:10px;}
 .footer .nav h3 {padding:0; margin:0}
 .footer .nav .a{display:block;color:#666;padding:0}
 .form {padding:5px 0px 20px;width:180px;margin:0 auto}
-#newsletter {background:#fff; font-size:14px}
+#newsletter {background:#ddd; font-size:14px}
 #newsletter input[type='text']{float:left;padding:5px;width:60%}
-#newsletter input[type='submit']{float:right;background:#a30303;color:#fff;padding:5px}
+#newsletter input[type='submit']{position:relative;background:#a30303;color:#fff;padding:5px}
 
 .footer-after{padding:8px 0;text-align:right; color:#aaa}
 .footer-after a{padding:8px 10px;color:#aaa;text-transform:capitalize;}
