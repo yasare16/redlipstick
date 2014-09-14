@@ -107,7 +107,7 @@ option{padding:10px;}
 .footer .nav li:first-child {padding:0 13px; color:#a30303; border-left-color:#a30303; font-size:14px}
 .footer .nav h3 {padding:0; margin:0}
 .footer .nav .a{display:block;color:#666;padding:0}
-.form {padding:5px 0px 20px;width:180px}
+.form {padding:5px 0px 20px;width:180px;margin:0 auto}
 #newsletter {background:#fff; font-size:14px}
 #newsletter input[type='text']{float:left;padding:5px;width:60%}
 #newsletter input[type='submit']{float:right;background:#a30303;color:#fff;padding:5px}
