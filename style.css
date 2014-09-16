@@ -12,7 +12,7 @@ hr{margin:0 auto;width:150px;background:#f4f4f4}
 /*CLEARFIX == clear floats*/
 .cf{zoom:1}
 .cf:after, cf:before{content:"";display:table;clear:both}
-body{line-height:1.5;color:#333;font:0.9em "Raleway",Verdana, Geneva, Arial, sans-serif}
+body{line-height:1.5;color:#333;font:1em "Raleway",Verdana, Geneva, Arial, sans-serif}
 
 /* GRID == In the format grid-n, denoting a horizontal grid made up of n columns that should sum up to 12 in its parent container. */
 [class*="grid"]{float:left;}
