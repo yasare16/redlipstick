@@ -70,7 +70,7 @@ img{width:100%;}
 
 /* CONTENT */
 .intro, .slide, .blurb,.center{margin:0 auto; text-align:center}
-.intro {padding-top:16.6%}
+.intro {padding:16.6% 8.3%;color:#333;}
 .intro .bold{font-size:1.5em}
 .intro #style-nav{min-width:120px;padding:4px 10px;color:#a30303;font:1em "Berkshire Swash", Arial, serif;border:none;background:#fff;border-radius:0 4px 4px 0;}
 option{padding:10px;}
