@@ -81,7 +81,8 @@ option{padding:10px;}
 
 .promo{}
 .promo .blurb{text-align:left;padding:0 8.34%}
-.promo .gutter{height:1px;background:#ff0 url(http://create.yawdesigns.com/images/stripebg1.png);}
+.promo .gutter{height:1px;}
+.promo .red{background:#f00 url(http://create.yawdesigns.com/images/stripebg1.png);}
 
 .pics{max-height:616px;overflow-y:hidden;}
 .divider{padding-right:1px;}
