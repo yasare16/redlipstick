@@ -20,7 +20,7 @@ body{line-height:1.5;color:#333;font:0.9em "Raleway",Verdana, Geneva, Arial, san
 .grid-10{width:83.33%}
 .grid-8 {width:66.67%}
 .grid-6{width:50%;}
-.grid-5{width:41.7%;}
+.grid-5{width:41.6%;}
 .grid-4{width:33.33%}
 .grid-3 {width:25%}
 .grid-2 {width:16.67%}
@@ -104,6 +104,7 @@ option{padding:10px;}
 .footer .nav h3 {padding:0; margin:0}
 .footer .nav .a{display:block;color:#666;padding:0}
 .form {padding:5px 0px 20px;width:180px;margin:0 auto}
+.footer .logo{text-shadow:1px 0 0 #fff;}
 #newsletter {background:#ddd; font-size:14px}
 #newsletter input[type='text']{float:left;padding:5px;width:60%}
 #newsletter input[type='submit']{position:relative;background:#a30303;color:#fff;padding:5px}
