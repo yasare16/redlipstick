@@ -27,7 +27,7 @@ body{line-height:1.5;color:#333;font:0.9em "Raleway",Verdana, Geneva, Arial, san
 .grid-1{width:8.33%}
 /***** End of re-usable CSS. Now to page specifics*****/
 
-.wrapper{max-width:1024px;margin:0 auto; padding:0 1%}
+.wrapper{max-width:1280px;margin:0 auto; padding:0 1%}
 .space{padding:80px 0}
 
 /*fonts*/
