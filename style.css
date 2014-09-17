@@ -71,7 +71,7 @@ img{width:100%;}
 
 /* CONTENT */
 .intro, .slide, .blurb,.center{margin:0 auto; text-align:center}
-.intro {position:relative;padding:16.6% 8.3%;color:#333;background:rgba(255,255,255,0.6);border-top:10px solid #333;box-shadow: -2px 2px 25px  #fff;}
+.intro {position:relative;padding:16.6% 8.3%;color:#333;background:rgba(255,255,255,0.6);border-top:10px solid #333;box-shadow: -2px 2px 25px  #fff;opacity:0;}
 .intro .bold{font-size:1.5em;}
 .intro #style-nav{min-width:120px;padding:8px 10px;color:#a30303;font:1.1em "Oswald", Arial, serif;border:none;background:#fff;border-radius:0 4px 4px 0;}
 option{padding:10px;}
