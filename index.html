@@ -158,8 +158,14 @@ Version: 1.0
 	canvas = c.getContext("2d");*/
 	
 	 //begin drawing wharrever
+	 rp = $('.red.promo');
     	$('.intro').css('top','-600px');
     	$('.intro').delay(300).animate({top:0,opacity:1},400);
+    	
+    	
+    	if(rp){
+    	   rp.hide();	
+    	}
     
         });
 </script>
