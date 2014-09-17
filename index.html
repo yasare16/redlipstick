@@ -60,7 +60,7 @@ Version: 1.0
     </section>
     <section class="red promo">
     	<div class="cf">
-            <div class="red grid-4 gutter"></div>
+            <div class="grid-4 gutter"></div>
            <div class="grid-8 white space">
                <div class="blurb">
                   <h1>The Blurb</h1>
@@ -158,13 +158,15 @@ Version: 1.0
 	canvas = c.getContext("2d");*/
 	
 	 //begin drawing wharrever
-	 rp = $('.red.promo');
+	 var rp = $('.red.promo'),
+                w = $('.grid-4').css();
     	$('.intro').css('top','-600px');
     	$('.intro').delay(400).animate({top:0,opacity:1},800);
+        $('.gutter').width(0);
     	
     	
     	if(rp){
-    	   //do the awesome
+    	   $('.gutter').animate({width:w},400);
     	   
     	}
     
