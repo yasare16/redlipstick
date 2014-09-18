@@ -193,15 +193,15 @@ Version: 1.0
 	canvas = c.getContext("2d");*/
 	
 	 //begin drawing wharrever
-	 var rp = $('.promo').visible(),
+	 var rp = $('.red.promo'),
                 w = $('.grid-4').css('width');
     	$('.intro').css('top','-600px');
     	$('.intro').delay(400).animate({top:0,opacity:1},800);
         $('.gutter').width(0);
     	
     	
-    	if(rp){
-    	   $('.gutter').animate({width:w},400);
+    	if(rp.visible(true)){
+    	   $('.grid-4.gutter').animate({width:w},400);
     	   
     	}
     
