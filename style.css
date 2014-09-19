@@ -116,5 +116,5 @@ option{padding:10px;}
 
 .footer-after{padding:8px 0;text-align:right; color:#aaa}
 .footer-after a{padding:8px 10px;color:#aaa;text-transform:capitalize;}
-.footer-after span{float:left}
+.footer-after span{position:relative;left:0;}
 .footer-after a:hover{color:#fff;}
