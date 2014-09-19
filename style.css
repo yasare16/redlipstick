@@ -87,11 +87,12 @@ option{padding:10px;}
 .grid-8.white.space{float:none;margin:0 auto;}
 
 .pics{max-height:616px;overflow-y:hidden;}
+.pics .grid-6{position:relative;}
 .divider{padding-right:1px;}
 .divider .grid-6{padding-left:1px;}
 .divider .grid-6:first-child,.divider .grid-12 .grid-6:first-child{padding-left:0;}
 .divider .grid-12 {}
-.pics span{display:block;padding:8px;background:#a30303;color:#fff;opacity:0.9;font-size:0.9em;}
+.pics span{display:block;position:absolute;bottom:0;padding:8px;background:#a30303;color:#fff;opacity:0.9;font-size:0.9em;}
 /*.divider .grid-12 .grid-6 {padding-top:1px}*/
 
 
