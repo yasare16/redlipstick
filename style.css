@@ -81,10 +81,9 @@ option{padding:10px;}
 .slide{width:85%}
 .slide img{width:100%}
 
-.promo{}
+.promo{background:url(http://www.transparenttextures.com/patterns/green-gobbler.png)}
 .promo .blurb{text-align:left;padding:0 8.34%}
 .promo .gutter{height:1px;-moz-transition:width 0.5s;transition:width 0.5s}
-.promo .red{background:#f00 url(http://create.yawdesigns.com/images/stripebg1.png);}
 .grid-8.white.space{float:none;margin:0 auto;}
 
 .pics{max-height:616px;overflow-y:hidden;}
