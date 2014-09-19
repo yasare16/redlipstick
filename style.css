@@ -34,6 +34,7 @@ body{line-height:1.5;color:#333;font:1em "Raleway",Verdana, Geneva, Arial, sans-
 h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase; padding-top:0.4em; padding-bottom:0.4em}
 h1, .huge{font-family:"Oswald", Arial, sans-serif}
 p {padding-top:0.4em; padding-bottom:0.8em}
+.bridge{width:33%;height:2px;background:#333;}
 .raleway{font-family:"Raleway",serif}
 .huge{font-size:5.3em;padding:5px 0;}
 .bold{font-weight:bold; padding-right:0.8em}   
