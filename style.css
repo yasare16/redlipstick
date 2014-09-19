@@ -92,7 +92,7 @@ option{padding:10px;}
 .divider .grid-6{padding-left:1px;}
 .divider .grid-6:first-child,.divider .grid-12 .grid-6:first-child{padding-left:0;}
 .divider .grid-12 {}
-.pics span{display:block;position:absolute;bottom:0;padding:8px;background:#a30303;color:#fff;opacity:0.9;font-size:0.9em;}
+.pics span{display:none;position:absolute;bottom:0;padding:8px;background:#a30303;color:#fff;opacity:0.9;font-size:0.9em;}
 /*.divider .grid-12 .grid-6 {padding-top:1px}*/
 
 
