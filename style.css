@@ -41,6 +41,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .landing .wrapper{padding-top:60px}
 .landing{position:relative;background:#333 /*url(https://db.tt/Xc6cJBxJ) fixed*/; color:#333;overflow-y:hidden}
 .landing img {position:absolute;top:0;width:100%}
+.landing .wrapper{position:absolute}
  /*(http://www.zastavki.com/pictures/originals/2013/Girls___Models_Model_in_plaid_dresses_041727_.jpg)*/
  /*https://db.tt/SMnIx41o*/
 /*anchors*/
@@ -74,7 +75,7 @@ img{width:100%;}
 
 /* CONTENT */
 .intro, .slide, .blurb,.center{margin:0 auto; text-align:center}
-.intro {position:absolute;top:0;width:180px;height:200px;padding:16.6% 8.3%;color:#333;background:rgba(255,255,255,0.1) url(http://www.transparenttextures.com/patterns/diagmonds-light.png);border-top:10px solid #333;/*box-shadow: -4px 8px 20px  #f5f5f5*/;opacity:0;}
+.intro {position:relative;width:180px;height:200px;padding:16.6% 8.3%;color:#333;background:rgba(255,255,255,0.1) url(http://www.transparenttextures.com/patterns/diagmonds-light.png);border-top:10px solid #333;/*box-shadow: -4px 8px 20px  #f5f5f5*/;opacity:0;}
 .intro .bold{font-size:1.5em;}
 .intro #style-nav{min-width:120px;padding:8px 10px;color:#a30303;font:1.1em "Oswald", Arial, serif;border:none;background:#fff;border-radius:0 4px 4px 0;}
 option{padding:10px;}
