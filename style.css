@@ -38,7 +38,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .raleway{font-family:"Raleway",serif}
 .huge{font-size:5.3em;padding:5px 0;}
 .bold{font-weight:bold; padding-right:0.8em}   
-/*.landing .wrapper{padding-top:60px}*/
+.landing .wrapper{padding-top:60px}
 .landing{position:relative;background:#333 /*url(https://db.tt/Xc6cJBxJ) fixed*/; color:#333;overflow-y:hidden}
 .landing *{position:absolute; top:0}
 .landing img {position:absolute;top:0;}
