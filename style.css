@@ -102,7 +102,7 @@ option{padding:10px;}
 .footer .social a{display:block;height:32px;width:32px;background:url(http://idea.yawdesigns.com/images/social-icons-sprite2.png);margin:20px auto;border:1px solid #fff;border-radius:50%;opacity:0.7;}
 .footer .social a:hover{opacity:1;}
 .footer .social a:last-child{margin-bottom:0;}
-.footer .grid-1::after{content:"";position:relative;width:8.3%;top:1px;left:-8px;display:block;height:0;border:60px solid transparent;border-bottom-color:#ddd}
+.footer .grid-1::after{content:"";position:relative;width:8.3%;top:1px;left:-8px;display:block;height:0;border:60px solid transparent;border-bottom-color:#ddd;border-left:0;}
 .footer .nav{}
 .footer .nav li{text-align:left; padding:5px; border-left:2px solid #444}
 .footer .nav li:first-child {padding:0 13px; color:#a30303; border-left-color:#a30303; font-size:14px}
