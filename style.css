@@ -39,9 +39,9 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .huge{font-size:5.3em;padding:5px 0;}
 .bold{font-weight:bold; padding-right:0.8em}   
 .landing .wrapper{padding-top:60px}
-.landing{position:relative;background:#333 url(https://db.tt/Xc6cJBxJ) fixed; color:#fff;height:600px}
+.landing{position:relative;background:#333 /*url(https://db.tt/Xc6cJBxJ) fixed*/; color:#fff;height:600px}
 #gallery{position:absolute; width:100%; height:600px; overflow-y:hidden}
-#gallery img {width:100%}
+#gallery img {position:absolute;width:100%}
  /*(http://www.zastavki.com/pictures/originals/2013/Girls___Models_Model_in_plaid_dresses_041727_.jpg)*/
  /*https://db.tt/SMnIx41o*/
 /*anchors*/
