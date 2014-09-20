@@ -38,10 +38,10 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .raleway{font-family:"Raleway",serif}
 .huge{font-size:5.3em;padding:5px 0;}
 .bold{font-weight:bold; padding-right:0.8em}   
-.landing .wrapper{padding-top:60px}
+.landing .wrapper{padding-top:60px;position:absolute;top:0; overflow:hidden}
 .landing{position:relative;background:#333 /*url(https://db.tt/Xc6cJBxJ) fixed*/; color:#333;overflow-y:hidden}
 .landing img {position:absolute;top:0;}
-.landing .wrapper {position:absolute;top:0 }
+.landing .wrapper { }
  /*(http://www.zastavki.com/pictures/originals/2013/Girls___Models_Model_in_plaid_dresses_041727_.jpg)*/
  /*https://db.tt/SMnIx41o*/
 /*anchors*/
