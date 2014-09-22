@@ -77,7 +77,7 @@ img{width:100%;}
 
 /* CONTENT */
 .intro, .slide, .blurb,.center{margin:0 auto; text-align:center}
-.intro{position:absolute;top:200px;width:300px;height:300px;padding:80px 5px;color:#f1f1f1;background:rgba(255,255,255,0.1) url(http://www.transparenttextures.com/patterns/diagmonds-light.png);border-top:10px solid #333;opacity:0;text-align:left;z-index:9999}
+.intro{position:absolute;top:200px;width:300px;height:300px;padding:80px 5px;color:#f1f1f1;background:rgba(255,255,255,0.1) url(http://www.transparenttextures.com/patterns/foggy-birds.png);border-top:10px solid #333;opacity:0;text-align:left;z-index:9999}
 .intro .huge {/*text-shadow:-2px 2px #222, -4px 4px #ff6666*/color:#a30303;}
 .intro .bold span{font-size:1.5em;color:#333;padding-left:0.4em;}
 .intro .bold span::before {content:"";height:20px;width:20px;display:inline-block;background:url(https://tse1.mm.bing.net/th?&id=HN.608011736972724277&w=60&h=60&c=0&pid=1.9&rs=0&p=0);background-position:-5px 31px;}
