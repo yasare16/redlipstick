@@ -78,7 +78,7 @@ img{width:100%;}
 /* CONTENT */
 .intro, .slide, .blurb,.center{margin:0 auto; text-align:center}
 .intro{position:absolute;top:200px;width:300px;height:300px;padding:80px 0;color:#f1f1f1;/*background:rgba(255,255,255,0.1) url(http://www.transparenttextures.com/patterns/diagmonds-light.png);*/border-top:10px solid #333;opacity:0;z-index:9999}
-.intro .bold{font-size:1.5em;}
+.intro .bold{font-size:1.5em;text-shadow:-2px 2px transparent, -4px 4px #ff6666}
 .intro #style-nav{min-width:120px;padding:8px 10px;color:#a30303;font:1.1em "Oswald", Arial, serif;border:none;background:#fff;border-radius:0 4px 4px 0;}
 option{padding:10px;}
 
