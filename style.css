@@ -81,7 +81,7 @@ img{width:100%;}
 .intro .huge {/*text-shadow:-2px 2px #222, -4px 4px #ff6666*/color:#a30303;}
 .intro .bold span{font-size:1.5em;color:#333;padding-left:0.4em;}
 .intro .bold span::before {content:"";height:20px;width:20px;display:inline-block;background:url(https://tse1.mm.bing.net/th?&id=HN.608011736972724277&w=60&h=60&c=0&pid=1.9&rs=0&p=0);background-position:-5px 31px;}
-.bold input{padding-left:0.4em;}
+.bold input{margin-left:0.4em;}
 /*.intro #style-nav{min-width:120px;padding:8px 10px;color:#a30303;font:1.1em "Oswald", Arial, serif;border:none;background:#fff;border-radius:0 4px 4px 0;}
 option{padding:10px;}*/
 
