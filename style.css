@@ -28,20 +28,20 @@ body{line-height:1.5;color:#333;font:1em "Raleway",Verdana, Geneva, Arial, sans-
 .grid-1{width:8.33%}
 /***** End of re-usable CSS. Now to page specifics*****/
 
-.wrapper{width:1280px;max-width:1280px;margin:0 auto; padding:0 1%}
+.wrapper{max-width:1280px;margin:0 auto; padding:0 1%}
 .space{padding:80px 0}
 
 /*fonts*/
 h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase; padding-top:0.4em; padding-bottom:0.4em}
 h1, .huge{font-family:"Oswald", Arial, sans-serif}
 p {padding-top:0.4em; padding-bottom:0.8em}
-.bridge{width:35%;height:2px;background:#f1f1f1;}
+.bridge{width:35%;height:2px;background:#f5f5f5;}
 .raleway{font-family:"Raleway",serif}
 .huge{font-size:5.3em;padding:5px 0;}
 .bold{font-weight:bold; padding-right:0.8em}
 
 /*sections*/
-.landing .wrapper{padding-top:60px;position:absolute;top:0;}
+/*.landing .grid{padding-top:60px;}*/
 .landing{position:relative;background:#333 /*url(https://db.tt/Xc6cJBxJ) fixed*/; color:#333;overflow-y:hidden; height:600px}
 .landing img {position:absolute;top:0;}
 
