@@ -78,7 +78,7 @@ img{width:100%;}
 
 /* CONTENT */
 .intro, .slide, .blurb,.center{margin:0 auto; text-align:center}
-.intro {position:relative;width:400px;height:400px;padding:100px 5px 0;color:#f1f1f1;background:rgba(0,0,0,0.3) /*url(http://www.transparenttextures.com/patterns/gray-floral.png)*/;border:10px solid #333;opacity:0;z-index:9999;border-radius:50%}
+.intro {position:relative;left:10%;width:400px;height:400px;padding:100px 5px 0;color:#f1f1f1;background:rgba(0,0,0,0.3) /*url(http://www.transparenttextures.com/patterns/gray-floral.png)*/;border:10px solid #333;opacity:0;z-index:9999;border-radius:50%}
 .intro .huge {/*text-shadow:-2px 2px #222, -4px 4px #ff6666*/color:#f1f1f1;}
 .intro .fa {color:#f1f1f1;font-size:1.5em}
 .intro .fa-female {color:#a30303 !important}
@@ -87,7 +87,7 @@ img{width:100%;}
 /*.intro #style-nav{min-width:120px;padding:8px 10px;color:#a30303;font:1.1em "Oswald", Arial, serif;border:none;background:#fff;border-radius:0 4px 4px 0;}
 option{padding:10px;}*/
 
-.slide{width:85%}
+/*.slide{width:85%}*/
 
 .promo{background:#a30303 url(http://www.transparenttextures.com/patterns/foggy-birds.png)}
 .promo .blurb{text-align:left;padding:0 8.34%}
