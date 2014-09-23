@@ -70,7 +70,7 @@ img{width:100%;}
 
 
 /* NAVIGATION */
-.header .nav{padding-top:10px;}
+.header .nav{padding-top:6px;}
 .header .nav,.header .nav li{float:right}
 .nav li a{text-transform:uppercase;font:14px "Oswald",serif;color:#333;padding:0 10px}
 .nav li a:hover {color:#a30303}
