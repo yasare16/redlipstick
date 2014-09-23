@@ -41,7 +41,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .bold{font-weight:bold; padding-right:0.8em}
 
 /*sections*/
-.landing .wrapper{padding-top:60px;position:absolute;top:0; overflow:hidden;}
+.landing .wrapper{padding-top:60px;position:absolute;top:0;}
 .landing{position:relative;background:#333 /*url(https://db.tt/Xc6cJBxJ) fixed*/; color:#333;overflow-y:hidden; height:600px}
 .landing img {position:absolute;top:0;}
 
@@ -78,7 +78,7 @@ img{width:100%;}
 
 /* CONTENT */
 .intro, .slide, .blurb,.center{margin:0 auto; text-align:center}
-.intro {position:relative;left:25%;width:400px;height:400px;padding:100px 5px 0;color:#f1f1f1;background:rgba(0,0,0,0.3) /*url(http://www.transparenttextures.com/patterns/gray-floral.png)*/;border:10px solid #333;opacity:0;z-index:9999;border-radius:50%}
+.intro {position:absolute;left:10%;width:400px;height:400px;padding:100px 5px 0;color:#f1f1f1;background:rgba(0,0,0,0.3) /*url(http://www.transparenttextures.com/patterns/gray-floral.png)*/;border:10px solid #333;opacity:0;z-index:9999;border-radius:50%}
 .intro .huge {/*text-shadow:-2px 2px #222, -4px 4px #ff6666*/color:#f1f1f1;}
 .intro .fa {color:#f1f1f1;font-size:1.5em}
 .intro .fa-female {color:#a30303 !important}
