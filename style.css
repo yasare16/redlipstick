@@ -84,7 +84,7 @@ img{width:100%;}
 .intro .fa-female {color:#a30303 !important}
 .intro span.bold.caps{display:block;text-align:left;padding-left:15%;}
 .intro .bold span{font-size:1.5em;color:#f1f1f1;padding-left:0.4em;}
-.bold .fa-circle-o{margin-left:0.4em;font-size:1.5em;color:#f1f1f1; cursor:pointer}
+.bold .fa-circle-o{margin:0.5em 0.4em;font-size:1.5em;color:#f1f1f1; cursor:pointer}
 /*.intro #style-nav{min-width:120px;padding:8px 10px;color:#a30303;font:1.1em "Oswald", Arial, serif;border:none;background:#fff;border-radius:0 4px 4px 0;}
 option{padding:10px;}*/
 
