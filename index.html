@@ -49,8 +49,8 @@ Version: 1.0
                    <hr class="bridge">
                    <h1 class="huge">Are you</h1>
                    <span class="bold raleway caps">
-                   	<i class="fa fa-male"></i><span>Male</span><i class="fa fa-circle-o"></i><br>
-                   	<i class="fa fa-female"></i><span>Female</span><i class="fa fa-circle-o"></i>
+                   	<i class="fa fa-male"></i><span>Male</span><i class="fa fa-circle-o checker"></i><br>
+                   	<i class="fa fa-female"></i><span>Female</span><i class="fa fa-circle-o checker"></i>
       		    </span>
                    
                    <!--code dropdown options to trigger page change
@@ -227,6 +227,8 @@ var radio = function(){
      }
 
 };
+
+$('.checker').click(radio());
     	
  /*   	if(rp.visible()){
     	   $('.grid-4.gutter').css('width','33.3%');
