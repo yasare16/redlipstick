@@ -78,7 +78,7 @@ img{width:100%;}
 
 /* CONTENT */
 .intro, .slide, .blurb,.center{margin:0 auto; text-align:center}
-.intro {position:absolute;left:8%;width:400px;height:400px;padding:100px 5px 0;color:#f1f1f1;background:rgba(0,0,0,0.3) /*url(http://www.transparenttextures.com/patterns/gray-floral.png)*/;border:4px dotted #bbb;opacity:0;z-index:9999;border-radius:50%;box-shadow:1px 1px 20px #111}
+.intro {position:absolute;left:8%;width:400px;height:400px;padding:100px 5px 0;color:#f1f1f1;background:rgba(0,0,0,0.5) /*url(http://www.transparenttextures.com/patterns/gray-floral.png)*/;border:4px dotted #bbb;opacity:0;z-index:9999;border-radius:50%;box-shadow:1px 1px 20px #111}
 .intro .huge {/*text-shadow:-2px 2px #222, -4px 4px #ff6666*/color:#f1f1f1;}
 .intro .fa {color:#f1f1f1;font-size:1.5em}
 .intro .fa-female {color:#a30303 !important}
@@ -87,7 +87,7 @@ img{width:100%;}
 .intro .bold .fa-circle-o,
 .intro .bold .fa-check-circle{margin:0.5em 0.4em;font-size:1.5em;color:#f1f1f1;cursor:pointer}
 .intro .bold .fa-circle-0:first-child {margin-top:0}
-.intro .bold .fa-check-circle{margin:0.35em;color:#a30303;}
+.intro .bold .fa-check-circle{margin:0.35em;color:#a30303;text-shadow:0 0 3px #f1f1f1;}
 .intro .bold *{-webkit-transition:all 0.4s;-moz-transition:all 0.4s;transition:all 0.4s;}
 /*.intro #style-nav{min-width:120px;padding:8px 10px;color:#a30303;font:1.1em "Oswald", Arial, serif;border:none;background:#fff;border-radius:0 4px 4px 0;}
 option{padding:10px;}*/
