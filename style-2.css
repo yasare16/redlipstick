@@ -13,7 +13,7 @@ hr{margin:0 auto;width:150px;background:#f4f4f4}
 /*CLEARFIX == clear floats*/
 .cf{zoom:1}
 .cf:after, cf:before{content:"";display:table;clear:both}
-body{line-height:1.5;background:333;color:#333;font:1em "Raleway",Verdana, Geneva, Arial, sans-serif}
+body{line-height:1.5;color:#333;font:1em "Raleway",Verdana, Geneva, Arial, sans-serif}
 
 /* GRID == In the format grid-n, denoting a horizontal grid made up of n columns that should sum up to 12 in its parent container. */
 [class*="grid"]{float:left;}
@@ -41,7 +41,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .bold{font-weight:bold; padding-right:0.8em}
 
 /* NAVIGATION */
-.header .nav{padding-top:6px;}
+.header .nav{padding-top:6px;background:#333;}
 .header .nav,.header .nav li{float:right}
 .nav li a{text-transform:uppercase;font:14px "Oswald",serif;color:#333;padding:0 10px}
 .nav li a:hover {color:#a30303}
