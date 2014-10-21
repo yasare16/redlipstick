@@ -50,3 +50,8 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .header .nav,.header .nav li{float:right}
 .nav li a{text-transform:uppercase;font:14px "Oswald",serif;color:#fff;padding:0 10px}
 .nav li a:hover {color:#a30303}
+
+/*CONTENT*/
+.landing .grid-6{min-height:600px;}
+.men{background:#f5f5f5;}
+.women{background:#d53333;}
