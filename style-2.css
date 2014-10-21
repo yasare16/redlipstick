@@ -39,3 +39,9 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .raleway{font-family:"Raleway",serif}
 .huge{font-size:5.3em;padding:5px 0;}
 .bold{font-weight:bold; padding-right:0.8em}
+
+/* NAVIGATION */
+.header .nav{padding-top:6px;}
+.header .nav,.header .nav li{float:right}
+.nav li a{text-transform:uppercase;font:14px "Oswald",serif;color:#333;padding:0 10px}
+.nav li a:hover {color:#a30303}
