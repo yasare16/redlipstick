@@ -52,6 +52,6 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .nav li a:hover {color:#a30303}
 
 /*CONTENT*/
-.landing .grid-6{min-height:600px;}
+.landing .grid-6{min-height:800px;}
 .men{background:#f5f5f5;}
 .women{background:#d53333;}
