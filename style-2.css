@@ -55,4 +55,4 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .landing .grid-6{min-height:700px;text-align:center;}
 .men{background:#f5f5f5;}
 .women{background:#d53333;}
-.fa{font-size:4em;}
+.fa{font-size:3em !important;}
