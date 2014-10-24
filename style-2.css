@@ -57,6 +57,6 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .men{position:relative;background:#f5f5f5;}
 .women{position:relative;background:#d53333;}
 .women::before, .men::after{content:" ";display:block;position:absolute;width:15%;height:110%;background:#333;-webkit-transform:rotate(8deg);transform:rotate(8deg)}
-.women::before{top:-10px;left:-75px;background:#f5f5f5}
-.men::after{bottom:-10px;right:-75px;background:#d53333}
+.women::before{top:-10px;left:-80px;background:#f5f5f5}
+.men::after{bottom:-10px;right:-80px;background:#d53333}
 .fa{font-size:3em !important;}
