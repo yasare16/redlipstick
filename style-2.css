@@ -54,7 +54,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 /*CONTENT*/
 .landing{}
 .landing .grid-6{min-height:700px;text-align:center;overflow:hidden}
-.men{background:#f5f5f5;}
+.men{position:relative;background:#f5f5f5;}
 .women{position:relative;background:#d53333;}
 .women::before, .men::after{content:" ";display:block;position:absolute;width:12%;height:100%;background:#333;-webkit-transform:rotate(5deg);transform:rotate(5deg)}
 .women::before{top:-10px;left:-30px}
