@@ -31,7 +31,7 @@ body{line-height:1.5;color:#333;font:1em "Raleway",Verdana, Geneva, Arial, sans-
 .wrapper{max-width:1280px;margin:0 auto; padding:0 1%}
 .space{padding:80px 0}
 img{width:100%}
-.button{display:inline-block;padding:3px 6px}
+.button{display:inline-block;padding:5px 8px;margin:8px}
 .red{background:#d53333;color:#f5f5f5}
 /*fonts*/
 h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase; padding-top:0.4em; padding-bottom:0.4em}
