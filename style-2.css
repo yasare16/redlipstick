@@ -41,7 +41,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .bold{font-weight:bold; padding-right:0.8em}
 
 /* HEADER */
-.header{position:relative;/*top:0;left:0;*/width:100%;padding:10px 0;background:#333;color:#fff;}
+.header{width:100%;padding:10px 0;background:#333;color:#fff;}
 .logo{display:inline-block;font:22px "Berkshire Swash", arial, serif;color:#d53333}
 .logo span:nth-of-type(2){color:#fff}
 
