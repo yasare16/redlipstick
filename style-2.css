@@ -39,7 +39,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .bridge{width:35%;height:2px;background:#a30303;}
 .raleway{font-family:"Raleway",serif}
 .huge{font-size:3.3em;padding:5px 0;}
-.bold{font-weight:bold; padding-right:0.8em}
+.bold{font-weight:bold;}
 
 /* HEADER */
 .header{width:100%;padding:15px 0;background:#333;color:#fff;}
