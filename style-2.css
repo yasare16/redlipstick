@@ -44,7 +44,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 
 /* HEADER */
 .header{width:100%;padding:15px 0;background:#333;color:#fff;}
-.header .wrapper{padding-top:15px}
+.header .wrapper{padding-top:1px}
 .logo{display:inline-block;font:22px "Berkshire Swash", arial, serif;color:#d53333}
 .logo span:nth-of-type(2){color:#fff}
 
@@ -65,3 +65,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .fa{font-size:3em !important;}
 .promo{position:relative}
 .screen{position:absolute;top:0;width:100%;text-align:center;padding-top:30%}
+
+
+/*FOOTER*/
+.footer{background:#f5f5f5;color:#333;min-height:400px}
