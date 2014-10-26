@@ -61,4 +61,4 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .women::before{top:-10px;left:-77px;background:#f5f5f5}
 .men::after{bottom:-10px;right:-77px;background:#d53333}
 .fa{font-size:3em !important;}
-.screen{text-align:center;padding-top:30%}
+.screen{position:absolute;top:0;width:100%;text-align:center;padding-top:30%}
