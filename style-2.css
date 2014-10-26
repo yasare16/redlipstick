@@ -47,7 +47,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 /* HEADER */
 .header{width:100%;padding:15px 0;background:#333;color:#fff;}
 .header .wrapper{padding-top:1px}
-.logo{display:inline-block;font:bold 22px "Rochester","Berkshire Swash", arial, serif;color:#d53333}
+.logo{display:inline-block;font:bold 25px "Rochester","Berkshire Swash", arial, serif;color:#d53333}
 .logo span:nth-of-type(2){color:#fff}
 
 /* NAVIGATION */
