@@ -16,7 +16,7 @@ hr{margin:0 auto;width:150px;background:#f4f4f4}
 body{line-height:1.5;color:#333;font:1em "Raleway",Verdana, Geneva, Arial, sans-serif}
 
 /*PRELOAD IMAGES*/
-body:after{display:none;content:url(https://dl.dropboxusercontent.com/u/74448709/sideface.jpg)}
+body::after{display:none;content:url(https://dl.dropboxusercontent.com/u/74448709/sideface.jpg)}
 /* GRID == In the format grid-n, denoting a horizontal grid made up of n columns that should sum up to 12 in its parent container. */
 [class*="grid"]{float:left;}
 .grid-12{width:100%}
