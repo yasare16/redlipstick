@@ -62,7 +62,8 @@ font-red{color:#d53333}
 /* NAVIGATION */
 .header .nav{padding-top:6px;}
 .header .nav,.header .nav li{float:right}
-.nav li a{text-transform:uppercase;font:14px "Oswald",serif;color:#fff;padding:0 10px}
+.header nav li a{color:#fff}
+.nav li a{text-transform:uppercase;font:14px "Oswald",serif;padding:0 10px}
 .nav li a:hover {color:#a30303}
 
 /*CONTENT*/
