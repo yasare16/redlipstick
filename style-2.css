@@ -43,7 +43,8 @@ h1,h2,h3,h4,h5,h6,.caps{text-transform:uppercase; padding-top:0.4em; padding-bot
 h1, .huge{font-family:"Oswald", Arial, sans-serif}
 p {padding-top:0.4em; padding-bottom:0.8em}
 .bridge{width:35%;height:2px;background:#a30303;}
-.raleway{font-family:"Raleway",serif}
+.raleway{font-family:"Raleway",sans-serif}
+.oswald{font-family:"Oswald,serif"}
 .huge{font-size:3.3em;padding:5px 0;}
 .bold{font-weight:bold;}
 .bridge{width:35%;height:2px;background:#f5f5f5;margin:5px auto}
