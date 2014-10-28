@@ -36,6 +36,7 @@ body::after{display:none;content:url(https://dl.dropboxusercontent.com/u/7444870
 img{width:100%}
 .button{display:inline-block;padding:5px 8px;margin:8px}
 .button:hover{background:#a30303}
+.black{background:#333}
 .red{background:#d53333;color:#f5f5f5}
 .white{background:#f5f5f5;color:#d53333}
 /*fonts*/
@@ -81,4 +82,25 @@ font-red{color:#d53333}
 
 
 /*FOOTER*/
-.footer{background:#f5f5f5;color:#333;min-height:400px}
+.footer{position:relative;color:#666; margin-top:-12px}
+.footer .grid-1{}
+.footer .social a{display:block;height:32px;width:32px;background:url(http://idea.yawdesigns.com/images/social-icons-sprite2.png);margin:20px auto;border:1px solid #fff;border-radius:50%;opacity:0.7;}
+.footer .social a:hover{opacity:1;}
+.footer .social a:last-child{margin-bottom:0;}
+.footer .grid-1::after{content:"";position:relative;width:8.3%;top:1px;left:-6px;display:block;height:0;border:60px solid transparent;border-bottom-color:#ddd;}
+.footer .nav{}
+.footer .nav li{text-align:left; padding:5px; border-left:2px groove #444}
+.footer .nav li:first-child {padding:0 13px; color:#a30303; border-left-color:#a30303; font-size:14px}
+.footer .nav h3 {padding:0; margin:0}
+.footer .nav .a{display:block;color:#666;padding:0}
+.form {padding:5px 0px 20px;width:180px;margin:0 auto}
+.footer .logo{text-shadow:1px 0 0 #fff;}
+.footer .logo span:nth-of-type(2){color:#808080}
+#newsletter {background:#ddd; font-size:14px}
+#newsletter input[type='text']{float:left;padding:5px;width:60%;box-shadow:inset 1px 1px 3px #aaa;}
+#newsletter input[type='submit']{position:relative;background:#a30303;color:#fff;padding:5px}
+
+.footer-after{padding:8px 0;text-align:right; color:#aaa;font-size:0.8em}
+.footer-after a{padding:8px 10px;color:#aaa;text-transform:capitalize;}
+.footer-after span{text-align:left;}
+.footer-after a:hover{color:#fff;}
