@@ -74,6 +74,7 @@ font-red{color:#d53333}
 .promo{position:relative}
 .screen{position:absolute;top:0;width:100%;text-align:center;padding-top:30%}
 .screen p{margin:15px 0 10px;color:#d53333}
+.screen img{opacity:0.7}
 
 
 /*FOOTER*/
