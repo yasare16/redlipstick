@@ -95,7 +95,7 @@ font-red{color:#d53333}
 .footer .nav li{text-align:left; padding:5px; border-left:2px groove #444}
 .footer .nav li:first-child {padding:0 13px; color:#a30303; border-left-color:#a30303; font-size:14px}
 .footer .nav h3 {padding:0; margin:0}
-.footer .nav .a{display:block;color:#666 !important;padding:0}
+.footer .nav a{display:block;color:#666 !important;padding:0}
 .form {padding:5px 0px 20px;width:180px;margin:0 auto}
 .footer .logo{text-shadow:1px 0 0 #fff;}
 .footer .logo span:nth-of-type(2){color:#808080}
