@@ -71,6 +71,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .fa{font-size:3em !important;}
 .promo{position:relative}
 .screen{position:absolute;top:0;width:100%;text-align:center;padding-top:30%}
+.screen .bridge{border-bottom:1px solid #333 }
 .screen p{margin:15px 0 10px}
 
 
