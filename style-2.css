@@ -93,15 +93,15 @@ font-red{color:#d53333}
 .footer .grid-1::after{content:"";position:relative;width:8.3%;top:1px;left:-15px;display:block;height:0;border:60px solid transparent;border-bottom-color:#f5f5f5;}
 .footer .nav{}
 .footer .nav li{text-align:left; padding:5px; border-left:2px groove #444}
-.footer .nav li:first-child {padding:0 13px; color:#a30303; border-left-color:#a30303; font-size:14px}
-.footer .nav h3 {padding:0; margin:0}
-.footer .nav a{display:block;color:#666 !important;padding:0}
+.footer .nav li:first-child {padding:0 10px; color:#a30303; border-left-color:#a30303; font-size:14px}
+.footer .nav h3 {padding:0;margin:0}
+.footer .nav a{display:block;color:#666;padding:0 10px}
 .form {padding:5px 0px 20px;width:180px;margin:0 auto}
 .footer .logo{text-shadow:1px 0 0 #fff;}
 .footer .logo span:nth-of-type(2){color:#808080}
 #newsletter {background:#ddd; font-size:14px}
-#newsletter input[type='text']{float:left;padding:5px;width:60%;box-shadow:inset 1px 1px 3px #aaa;}
-#newsletter input[type='submit']{position:relative;background:#a30303;color:#fff;padding:5px}
+#newsletter input[type='text']{float:left;padding:5px;width:65%;box-shadow:inset 1px 1px 3px #aaa;}
+#newsletter input[type='submit']{position:relative;background:#a30303;color:#fff;padding:5px 8px}
 
 .footer-after{padding:8px 0;text-align:right; color:#aaa;font-size:0.8em}
 .footer-after a{padding:8px 10px;color:#aaa;text-transform:capitalize;}
