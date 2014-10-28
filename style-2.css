@@ -101,7 +101,7 @@ font-red{color:#d53333}
 .footer .logo{text-shadow:1px 0 0 #fff;}
 .footer .logo span:nth-of-type(2){color:#808080}
 #newsletter {background:#ddd; font-size:14px}
-#newsletter input[type='text']{float:left;padding:5px;width:65%;box-shadow:inset 1px 1px 3px #aaa;}
+#newsletter input[type='text']{float:left;padding:5px;width:62%;box-shadow:inset 1px 1px 3px #aaa;}
 #newsletter input[type='submit']{position:relative;background:#a30303;color:#fff;padding:5px 8px}
 
 .footer-after{padding:8px 0;text-align:right; color:#aaa;font-size:0.8em}
