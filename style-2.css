@@ -62,7 +62,7 @@ font-red{color:#d53333}
 .logo span:nth-of-type(2){color:#fff}
 
 /* NAVIGATION */
-.header .nav{padding-top:6px;}
+.header .nav{display:inline-block;padding-top:6px;}
 .header .nav,.header .nav li{float:right}
 .header .nav li a{color:#fff}
 .nav li a{text-transform:uppercase;font:14px "Oswald",serif;padding:0 10px}
