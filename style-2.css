@@ -82,7 +82,7 @@ font-red{color:#d53333}
 .screen p{margin:15px 0 10px;color:#d53333;text-shadow:1px 1px #333}
 .screen .bridge{box-shadow:0 1px #333}
 .promo img{opacity:0.9}
-.screen::before{display:block;content:" ";border: 40px solid transparent;border-left-color:red;position:absolute;top:40%;left:0;width:0;height:1px;opacity:1}
+.screen::before{display:block;content:" ";border: 30px solid transparent;border-left-color:#f5f5f5;position:absolute;top:40%;left:0;width:0;height:1px;}
 
 
 
