@@ -63,7 +63,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 
 /* NAVIGATION */
 .header .nav{display:inline-block;padding-top:6px;}
-.header .nav,.header .nav li{float:right}
+.header .nav li{float:right}
 .header .nav li .item{color:#fff}
 .nav li .item{text-transform:uppercase;font:14px "Oswald",serif;padding:0 10px}
 .nav li .item:hover {color:#a30303}
