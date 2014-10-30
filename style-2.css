@@ -62,7 +62,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 #logo span:nth-of-type(2){color:#fff}
 
 /* NAVIGATION */
-.header .nav{display:inline-block;padding-top:6px;}
+.header .nav{display:inline-block;padding-top:6px;vertical-align:bottom}
 .header .nav li{float:right}
 .header .nav li .item{color:#fff}
 .nav li .item{text-transform:uppercase;font:14px "Oswald",serif;padding:0 10px}
