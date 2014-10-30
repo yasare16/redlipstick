@@ -100,7 +100,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .footer .nav li{text-align:left; padding:5px; border-left:2px groove #444}
 .footer .nav li:first-child {padding:0 10px; color:#a30303; border-left-color:#a30303; font-size:14px}
 .footer .nav h3 {padding:0;margin:0}
-.footer .nav a{display:block;color:#666;padding:0 10px}
+.footer .nav .item{display:block;color:#666;padding:0 10px}
 .footer .grid-5{text-align:center}
 .form {padding:5px 0px 20px;width:180px;margin:0 auto}
 .footer .logo{text-shadow:1px 0 0 #fff;}
