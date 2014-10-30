@@ -104,7 +104,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .footer .grid-5{text-align:center}
 .form {padding:5px 0px 20px;width:180px;margin:0 auto}
 .footer .logo{text-shadow:1px 0 0 #fff;}
-.footer .logo span:nth-of-type(2){color:#808080}
+.footer #logo span:nth-of-type(2){color:#808080}
 #newsletter {background:#ddd; font-size:14px}
 #newsletter input[type='text']{float:left;padding:5px;width:62%;box-shadow:inset 1px 1px 3px #aaa;}
 #newsletter input[type='submit']{position:relative;background:#a30303;color:#fff;padding:5px 8px}
