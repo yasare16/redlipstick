@@ -56,9 +56,9 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 
 /* HEADER */
 .header{width:100%;padding:15px 0;background:#333;color:#fff;text-align:center;position:fixed;height:80px;z-index:100;box-shadow:0 1px 5px #111;}
-.header::after,.header::before {content:"";display:block;position:absolute;top:-80px;border:80px solid transparent;}
-.header::after{right:-80px;border-bottom-color:#d53333;}
-.header::before{left:-80px;border-top-color:#d53333;}
+.header::after,.header::before {content:"";display:block;position:absolute;border:80px solid transparent;}
+.header::after{top:-80px;right:-80px;border-bottom-color:#d53333;}
+.header::before{top:0;left:-80px;border-top-color:#d53333;}
 .header .wrapper{padding-top:1px}
 #logo{display:inline-block;font:bold 2em "Montez","Berkshire Swash", arial, serif;color:#d53333;padding:0 26% 0 25%;}
 #logo span:nth-of-type(2){color:#fff}
