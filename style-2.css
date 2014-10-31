@@ -92,13 +92,13 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .story{position:relative;padding:80px 80px;text-align:center;}
 .story h1{color:#d53333;font-size:2em;text-shadow:1px 1x #fff;}
 .story.space:before,.story.space::after{content:url(https://db.tt/QiakpVVf);position:absolute;opacity:0.6;}
-.story.space::before {left:0;bottom:40px;}
-.story.space::after {top:40px;right:0;-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);transform:rotate(180deg);}
+.story.space::before {left:0;bottom:30px;}
+.story.space::after {top:30px;right:0;-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);transform:rotate(180deg);}
 
 
 
 /*FOOTER*/
-.footer{position:relative;color:#666; margin-top:-12px}
+.footer{position:relative;color:#666;}
 .footer .grid-1{}
 .footer .social a{display:block;height:32px;width:32px;background:url(http://idea.yawdesigns.com/images/social-icons-sprite2.png);margin:20px auto;border:1px solid #fff;border-radius:50%;opacity:0.7;}
 .footer .social a:hover{opacity:1;}
