@@ -88,10 +88,9 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .promo img{opacity:1}
 .img{position:absolute;width:100%;height:100%;background:url(https://dl.dropboxusercontent.com/u/74448709/olga.jpg) fixed;background-size:cover;}
 /*.screen::before{display:block;content:" ";border:20px solid transparent;border-left-color:#f5f5f5;position:absolute;top:15%;left:0}
-.screen::after{display:block;content:" ";border:20px solid transparent;border-right-color:#f5f5f5;position:absolute;bottom:15%;right:0;}
-*/.story{text-align:center;}
+.screen::after{display:block;content:" ";border:20px solid transparent;border-right-color:#f5f5f5;position:absolute;bottom:15%;right:0;}*/
+.story{position:relative;padding:80px 80px;text-align:center;}
 .story h1{color:#d53333;font-size:2em;text-shadow:1px 1x #fff;}
-.story.space{padding:80px 80px;}
 .story.space:before,.story.space::after {content:url(https://db.tt/QiakpVVf);position:absolute;opacity:0.7;}
 .story.space::before {left:0;bottom:40px;}
 .story.space::after {top:40px;right:0;-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);transform:rotate(180deg);}
