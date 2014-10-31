@@ -56,7 +56,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 
 /* HEADER */
 .header{width:100%;padding:15px 0;background:#333;color:#fff;text-align:center;position:fixed;height:80px;z-index:100;box-shadow:0 1px 5px #111;}
-.header::after {content:"";display:block;position:absolute;top:-80px;border:80px solid transparent;}
+.header::after,.header::before {content:"";display:block;position:absolute;top:-80px;border:80px solid transparent;}
 .header::after{right:-80px;border-bottom-color:#d53333;}
 .header::before{left:-80px;border-top-color:#d53333;}
 .header .wrapper{padding-top:1px}
