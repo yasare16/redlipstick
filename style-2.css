@@ -68,7 +68,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .header .nav li{float:right}
 .header .nav li .item{color:#fff}
 .nav li .item{text-transform:uppercase;font:14px "Oswald",serif;padding:0 10px}
-.nav li .item:hover {color:#a30303}
+.nav li .item:hover {color:#d53333}
 
 /*CONTENT*/
 .landing{}
@@ -104,6 +104,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .footer .nav li:first-child {padding:0 10px; color:#a30303; border-left-color:#a30303; font-size:14px}
 .footer .nav h3 {padding:0;margin:0}
 .footer .nav .item{display:block;color:#666;padding:0 10px}
+.footer .nav .item:hover{color:#222;}
 .footer .grid-5{text-align:center}
 .form {padding:5px 0px 20px;width:200px;margin:0 auto}
 .footer .logo{text-shadow:1px 0 0 #fff;}
