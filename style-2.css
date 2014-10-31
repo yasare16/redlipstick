@@ -115,7 +115,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 #newsletter input[type='text']{float:left;padding:5px;width:62%;box-shadow:inset 1px 1px 3px #aaa;}
 #newsletter input[type='submit']{position:relative;background:#a30303;color:#fff;padding:5px 8px}
 
-.footer-after{padding:8px 0;text-align:right; color:#aaa;font-size:0.8em}
+.footer-after{padding:8px 0;text-align:right;font-size:0.8em}
 .footer-after a{padding:8px 10px;color:#666;text-transform:capitalize;}
 .footer-after span{text-align:left;}
 .footer-after a:hover{color:#222;}
