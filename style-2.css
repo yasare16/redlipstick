@@ -103,10 +103,10 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .footer .grid-1::after{content:"";position:relative;width:8.3%;top:0;left:-7px;display:block;height:0;border:60px solid transparent;border-bottom-color:#333;}
 .footer .nav{}
 .footer .nav li{text-align:left; padding:5px; border-left:2px groove #444}
-.footer .nav li:first-child {padding:0 10px; color:#a30303; border-left-color:#a30303; font-size:14px}
+.footer .nav li:first-child {padding:0 10px; color:#d53333; border-left-color:#a30303; font-size:14px}
 .footer .nav h3 {padding:0;margin:0}
 .footer .nav .item{display:block;color:#666;padding:0 10px}
-.footer .nav .item:hover{color:##f5f5f5;}
+.footer .nav .item:hover{color:#f5f5f5;}
 .footer .grid-5{text-align:center}
 .form {padding:5px 0px 20px;width:200px;margin:0 auto}
 .footer .logo{text-shadow:1px 0 0 #fff;}
