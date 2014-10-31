@@ -76,15 +76,15 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .men{position:relative;background:#f5f5f5;}
 .men:hover{background:url(http://media-cache-ec0.pinimg.com/736x/bb/17/2f/bb172fd6fc955141ec03b127b1073bbd.jpg);background-size:cover}
 .women{position:relative;background:#d53333;color:#f5f5f5}
-.women:hover{background:url(https://dl.dropboxusercontent.com/u/74448709/sideface.jpg);background-size:cover;transition:all 0.4s;-webkit-transition:all 0.4s}
+.women:hover{background-image:url(https://dl.dropboxusercontent.com/u/74448709/sideface.jpg);background-size:cover;transition:all 0.4s;-webkit-transition:all 0.4s}
 .women::before, .men::after{content:" ";display:block;position:absolute;width:15%;height:110%;background:#333;-webkit-transform:rotate(8deg);transform:rotate(8deg)}
 .women::before{position:relative;top:-10px;left:7px;background:#333}
 .men::after{bottom:-20px;right:-77px;background:#d53333}
 .fa{font-size:3em !important;}
 .promo{position:relative;min-height:700px;}
 .screen{position:absolute;top:0;width:100%;text-align:center;height:100%;padding-top:25%;background-image: url(http://www.transparenttextures.com/patterns/clean-gray-paper.png)}
-.screen p{font-family:"Lobster";margin:15px 0 10px;color:#d53333;text-shadow:1px 1px #444}
-.screen .bridge{box-shadow:0 1px #333}
+.screen p{font-family:"Lobster";margin:15px 0 10px;color:#d53333;text-shadow:1px 1px 25px #ddd}
+.screen .bridge{box-shadow:0 1px #666}
 .promo img{opacity:1}
 .img{position:absolute;width:100%;height:100%;background:url(https://dl.dropboxusercontent.com/u/74448709/olga.jpg) fixed;background-size:cover;}
 .screen::before{display:block;content:" ";border:20px solid transparent;border-left-color:#f5f5f5;position:absolute;top:15%;left:0}
