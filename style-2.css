@@ -95,7 +95,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .story.space:before,.story.space::after{content:url(https://db.tt/QiakpVVf);position:absolute;opacity:0.6;}
 .story.space::before {left:0;bottom:30px;}
 .story.space::after {top:30px;right:0;-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);transform:rotate(180deg);}
-
+.pics{background:url(http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F11%2F04%2Fbreaker-supermodels.jpg) fixed;background-size:cover;min-height:400px;}
 
 
 /*FOOTER*/
