@@ -36,7 +36,7 @@ body::after{display:none;content:url(https://dl.dropboxusercontent.com/u/7444870
 .wrapper{max-width:1280px;margin:0 auto; padding:0 1%}
 .space{padding:80px 0}
 img{width:100%}
-.button{display:inline-block;padding:5px 8px;margin:8px}
+.button{display:inline-block;padding:5px 8px;margin:8px;cursor:pointer;}
 .button:hover{background:#a30303}
 .black{background:#333}
 .red{background:#d53333;color:#f5f5f5}
@@ -61,7 +61,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .header::after{top:-80px;right:-80px;border-bottom-color:#d53333;}
 .header::before{top:0;left:-80px;border-top-color:#d53333;}
 .header .wrapper{padding-top:1px}
-#logo{display:inline-block;position:relative;top:25px;font:bold 2em "Montez","Berkshire Swash", arial, serif;color:#d53333;padding:0 26% 0 25%;}
+#logo{display:inline-block;font:bold 2em "Montez","Berkshire Swash", arial, serif;color:#d53333;padding:0 26% 0 25%;}
 #logo span:nth-of-type(2){color:#fff}
 
 /* NAVIGATION */
