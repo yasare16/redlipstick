@@ -86,7 +86,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .choices:first-child{box-shadow:none}
 .choices .fa{padding-top:50%}
 .fa{font-size:3em !important}
-.choices:hover > .fa{background:#fff}
+.choices:hover > .fa{color:#fff}
 .promo{position:relative;min-height:700px;}
 .screen{position:absolute;top:0;width:100%;text-align:center;height:100%;padding-top:25%;/*background-image: url(http://www.transparenttextures.com/patterns/clean-gray-paper.png)*/}
 .screen p{font-family:"Damion";margin:15px 0 10px;color:#d53333;text-shadow:1px 1px #bbb}
