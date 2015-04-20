@@ -82,8 +82,8 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .women::before, .men::after{content:" ";display:block;position:absolute;width:90px;height:110%;background:#333;-webkit-transform:rotate(8deg);transform:rotate(8deg)}
 .women::before{top:-10px;left:-77px;background:#f5f5f5;height:41%;}
 .men::after{bottom:-20px;right:-77px;background:#d53333}
-.choice-holder{overflow-x:hidden}
-.choices{min-height:400px;background:#F5F5F5;box-shadow:-4px 0 5px #aaa}
+.choice-holder{overflow-x:hidden;border-top:5px solid #333;border-bottom:5px solid #333}
+.choices{min-height:500px;background:#F5F5F5;box-shadow:-4px 0 5px #aaa}
 .choices:first-child{box-shadow:none}
 .fa{font-size:3em !important;}
 .promo{position:relative;min-height:700px;}
