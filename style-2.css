@@ -61,7 +61,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .header::after{top:-80px;right:-80px;border-bottom-color:#d53333;}
 .header::before{top:0;left:-80px;border-top-color:#d53333;}
 .header .wrapper{padding-top:1px}
-#logo{display:inline-block;font:bold 2em "Montez","Berkshire Swash", arial, serif;color:#d53333;padding:0 26% 0 25%;}
+#logo{display:inline-block;font:bold 2em "Niconne","Montez","Berkshire Swash", arial, serif;color:#d53333;padding:0 26% 0 25%;}
 #logo span:nth-of-type(2){color:#fff}
 
 /* NAVIGATION */
@@ -90,7 +90,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .choices:hover > .fa{color:#fff}
 .promo{position:relative;min-height:700px;}
 .screen{position:absolute;top:0;width:100%;text-align:center;height:100%;padding-top:25%;/*background-image: url(http://www.transparenttextures.com/patterns/clean-gray-paper.png)*/}
-.screen p{font-family:"Redressed","Damion";margin:15px 0 10px;color:#d53333;text-shadow:1px 1px #bbb}
+.screen p{font-family:"Niconne,""Redressed","Damion";margin:15px 0 10px;color:#d53333;text-shadow:1px 1px #bbb}
 .screen .bridge{box-shadow:0 1px #666}
 .promo img{opacity:1}
 .img{position:absolute;width:100%;height:100%;background:url(https://dl.dropboxusercontent.com/u/74448709/olga_red.png) fixed;background-size:cover;}
