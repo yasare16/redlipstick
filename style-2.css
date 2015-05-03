@@ -89,7 +89,7 @@ p {padding-top:0.4em; padding-bottom:0.8em}
 .fa{font-size:3em !important}
 .choices:hover > .fa{color:#fff}
 .promo{position:relative;min-height:700px;}
-.lip{width:150px;background:rgba(255, 255, 255, 0.8);border-radius:50%;padding:50px 36px;margin:0 auto 30px;box-shadow:0 0 20px #333}
+.lip{width:150px;background:rgba(113, 113, 113, 0.8);border-radius:50%;padding:47px 30px;margin:0 auto 30px;box-shadow:0 0 20px #333}
 .lip img{opacity:0.85}
 .screen{position:absolute;top:0;width:100%;text-align:center;height:100%;padding-top:15%;background-image: url(http://www.transparenttextures.com/patterns/clean-gray-paper.png)}
 .screen p{font-family:"Berkshire Swash","Niconne","Redressed","Damion";margin:15px 0 10px;color:#d53333;text-shadow:1px 1px #bbb}
